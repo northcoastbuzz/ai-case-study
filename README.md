@@ -25,13 +25,6 @@ These tools include phone integration and call recording that uses, "natural lan
 Gong can then provide coaching and assitance to the sales associate with customer follow-up and e-mail generation using **Generative AI and Conversational AI**; as well as offering insights as to how close customers are to purchasing or if a sale are on the cusp of 
 being lost based on the interations with the customer. Gong also offers integration with popular CRM applications like Salesforce, Microsoft Dynamics 365 and Hubspot as well as meeting sites like Zoom, GoToMeetings, and Webex.
 
-Gong has grown steadily each year since it's founding and "has outsold the competition and represents over 75% of the revenue intelligence market." [^1]
-
----
-![Annual Revenue](https://zenpost.com/wp-content/uploads/2022/02/Zenpost-_-Gont.io-_-SaaS-Growth-Strategy-_-2022-Revenue-Run.png)
-*Source: [Zenpost | A Case Study on Gong.io’s $7.5B SaaS Growth Strategy](https://zenpost.com/blog/gong-saas-growth-strategy/)*
-
----
 
 ## Landscape
 Competitors to Gong include:
@@ -44,6 +37,14 @@ Competitors to Gong include:
 - Xactly
 
 While Gong is currently valued at about %7.5 billon, it's biggest competitor is Chorus.ai is only valued at around $500 million [^1]
+
+Gong has grown steadily each year since it's founding and "has outsold the competition and represents over 75% of the revenue intelligence market." [^1]
+
+---
+![Annual Revenue](https://zenpost.com/wp-content/uploads/2022/02/Zenpost-_-Gont.io-_-SaaS-Growth-Strategy-_-2022-Revenue-Run.png)
+*Source: [Zenpost | A Case Study on Gong.io’s $7.5B SaaS Growth Strategy](https://zenpost.com/blog/gong-saas-growth-strategy/)*
+
+---
 
 ## Results
 
